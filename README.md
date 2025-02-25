@@ -38,3 +38,8 @@ Para rodar os projetos, siga as instruções abaixo:
 - **R (versão 4.4.2 ou mais recente)**: Utilize a versão mais recente do R para evitar problemas de compatibilidade.
   
   [Download do R](https://cran.r-project.org/)
+
+## Contribuições
+
+Fique à vontade para sugerir melhorias, abrir issues ou contribuir com novos projetos! Para isso, basta criar um fork deste repositório e enviar um pull request.
+
